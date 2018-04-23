@@ -1,20 +1,19 @@
 
-# BrainFuck IDE
+# BrainFuck IDE -- [Try online now!](https://nodesource.com/products/nsolid)
 
 BF IDE with visualization, step by step execution, breakpoints, examples, and syntax highlighting. Made with Godot.
-# [Try online now!](https://nodesource.com/products/nsolid)
 
 ![DEMO GIF](https://gabrii.github.io/BrainFuckIDE/screencap.gif)
 
 
-# About
+## About
   - Insprited by [@fatiherikli]()'s [Brainfuck Visualizer](https://github.com/fatiherikli/brainfuck-visualizer/).
   - Font [Graph +35](http://www.1001fonts.com/graph-35-pix-font.html) by [30100flo](http://www.1001fonts.com/users/30100flo/).
   - Most BrainFuck examples from [Daniel B Cristofani](http://www.hevanet.com/cristofd/brainfuck/), and some from [Jeff Johnston Archive](http://esoteric.sange.fi/brainfuck/README.txt).
   - [Monokai](https://www.monokai.pro/) color schema for syntax highlighting.
   - Made with Godot 3.0.2.
 
-# Limitations
+## Limitations
 
 I stumbled into 2 Godot bugs that made impossible to get the desired effect. I've made pull requests fixing those, but are pending to merge:
  - [#18298](https://github.com/godotengine/godot/pull/18298) Text edit didn't work when scaling display.
