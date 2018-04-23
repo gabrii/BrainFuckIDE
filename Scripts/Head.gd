@@ -13,7 +13,7 @@ onready var cells_container = get_parent()
 onready var vc = get_node("/root/CanvasLayer/ViewportControl")
 
 func _ready():
-	#set_process(true)
+	set_process(true)
 	move_to_cell(current_cell)
 	
 

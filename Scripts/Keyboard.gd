@@ -24,7 +24,7 @@ func _notification(what):
 				get_tree().quit()
 
 func show_if_mobile():
-	if OS.has_touchscreen_ui_hint():
+	if OS.has_touchscreen_ui_hint() or true:
 		show()
 
 func _cursor_changed():

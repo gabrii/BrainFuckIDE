@@ -43,3 +43,6 @@ func window_resize():
 			
 		width = new_size.x
 		viewport.set_size_override(true, new_size)
+	else:
+		
+		width = OS.get_window_size().x
