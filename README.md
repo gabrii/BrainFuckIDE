@@ -1,5 +1,5 @@
 
-# BrainFuck IDE -- [Try online now!](https://nodesource.com/products/nsolid)
+# BrainFuck IDE -- [Try online now!](https://gabriicom.itch.io/brainfuck-ide)
 
 BF IDE with visualization, step by step execution, breakpoints, examples, and syntax highlighting. Made with Godot.
 
